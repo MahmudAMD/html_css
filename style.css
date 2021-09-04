@@ -56,3 +56,15 @@ li {
   display: list-item;
   text-align: -webkit-match-oarent;
 }
+
+main {
+    padding: 100px 80px 100px 80px;
+}
+
+.container h1 {
+    font-size: 140px;
+}
+
+.container span {
+    color: red;
+}
